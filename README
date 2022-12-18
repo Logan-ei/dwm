@@ -1,6 +1,8 @@
 
 除了打几个补丁基本没做啥改动，感觉这样纯粹些好。
 
+基础依赖 sudo apt-get install suckless-tools libx11-dev libxft-dev libxinerama-dev gcc make
+
 
 dwm - dynamic window manager
 ============================
